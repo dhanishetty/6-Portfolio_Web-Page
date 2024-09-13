@@ -1,0 +1,68 @@
+body {
+  font-family: Cambria;
+  background-color: #262b33;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.left-column {
+  width: 30%;
+  padding: 20px;
+  border-right: 1px solid #fff;
+}
+
+.right-column {
+  width: 70%;
+  padding: 20px;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.contact-links li {
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #fff;
+}
+
+.contact-links i {
+  padding-right: 5px;
+  color: #fff;
+}
+
+.skills-list li {
+  margin-bottom: 5px;
+}
+
+.projects-section {
+  margin-top: 30px;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+
+.projects-section h2, h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+a {
+  color: White;
+  
+}
+
+.projects-section a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 1px solid #333
+}
